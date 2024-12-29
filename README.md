@@ -1,11 +1,10 @@
-# My Portfolio
+# My Portfolio (Janardhan Khandagle)
 
 This repository contains the source code for my personal portfolio website. It serves as a comprehensive showcase of my projects, skills, and professional journey.
 
 ## 🚀 Features
 - Dynamic and interactive project showcase
 - Fully responsive design, optimized for all devices
-- [Optional: Add any unique features like "Dark mode" or "Integrated blog section"]
 
 ## 🛠️ Built With
 - **Frontend:** React, TailwindCSS, HTML, CSS, Bootstrap
